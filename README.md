@@ -1,3 +1,3 @@
 # Demo-Repo
-Demo for GitHub intro
-This is a Readme.md file
+Demo for GitHub intro.
+This is a Readme.md file!
